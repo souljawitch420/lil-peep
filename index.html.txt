@@ -1,5 +1,4 @@
-index.html
-<!DOCTYPE html>
+   <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -23,7 +22,7 @@ index.html
     }
 
     canvas {
-      background: linear-gradient(#87ceeb 0%, #87ceeb 65%, #d28b45 65%, #d28b45 100%);
+      background: url('https://upload.wikimedia.org/wikipedia/commons/6/6e/Lil_Peep_2017.jpg') center/cover no-repeat;
       border: 4px solid white;
       display: block;
       margin: 15px auto;
